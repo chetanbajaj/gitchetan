@@ -14,9 +14,19 @@ public class demo {
    /// to add all files /directories
     // git add -A
 //git commit -m " project name "
+    //git diff
+    // //difrant between the code wich you added the main code
+   // this is  show the coomitwich you are add the the -mwith commit
+    //git log
 
 
     public static void main(String[] args) {
+         demo .welcomee();
+    }
+    public static  void welcomee (){
+        System.out.println("dd")
+
+
 
     }
 }
